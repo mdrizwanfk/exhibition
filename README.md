@@ -1,6 +1,6 @@
-## WALKTHROUGH
+# WALKTHROUGH
 
-# BRANCHES
+## BRANCHES
 
-Branch One - projects
-Branch Two - templates
+1. Branch One - projects
+2. Branch Two - templates
